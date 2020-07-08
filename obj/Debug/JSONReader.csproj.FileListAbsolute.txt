@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\JSONReader\bin\Debug\JSONReader.exe.config
+C:\Users\LENOVO\source\repos\JSONReader\bin\Debug\JSONReader.exe
+C:\Users\LENOVO\source\repos\JSONReader\bin\Debug\JSONReader.pdb
+C:\Users\LENOVO\source\repos\JSONReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\JSONReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\JSONReader\obj\Debug\JSONReader.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\JSONReader\obj\Debug\JSONReader.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JSONReader\obj\Debug\JSONReader.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\JSONReader\obj\Debug\JSONReader.exe
+C:\Users\LENOVO\source\repos\JSONReader\obj\Debug\JSONReader.pdb

@@ -1,0 +1,1304 @@
+[
+ {
+   "CountryName": "China",
+   "CountryCode": "CHN",
+   "Continent": "Asia",
+   "Population2017": "1386395000"
+ },
+ {
+   "CountryName": "India",
+   "CountryCode": "IND",
+   "Continent": "Asia",
+   "Population2017": "1339180127"
+ },
+ {
+   "CountryName": "United States",
+   "CountryCode": "USA",
+   "Continent": "North America",
+   "Population2017": "325719178"
+ },
+ {
+   "CountryName": "Indonesia",
+   "CountryCode": "IDN",
+   "Continent": "Asia",
+   "Population2017": "263991379"
+ },
+ {
+   "CountryName": "Brazil",
+   "CountryCode": "BRA",
+   "Continent": "South America",
+   "Population2017": "209288278"
+ },
+ {
+   "CountryName": "Pakistan",
+   "CountryCode": "PAK",
+   "Continent": "Asia",
+   "Population2017": "197015955"
+ },
+ {
+   "CountryName": "Nigeria",
+   "CountryCode": "NGA",
+   "Continent": "Africa",
+   "Population2017": "190886311"
+ },
+ {
+   "CountryName": "Bangladesh",
+   "CountryCode": "BGD",
+   "Continent": "Asia",
+   "Population2017": "164669751"
+ },
+ {
+   "CountryName": "Russian Federation",
+   "CountryCode": "RUS",
+   "Continent": "Europe",
+   "Population2017": "144495044"
+ },
+ {
+   "CountryName": "Mexico",
+   "CountryCode": "MEX",
+   "Continent": "North America",
+   "Population2017": "129163276"
+ },
+ {
+   "CountryName": "Japan",
+   "CountryCode": "JPN",
+   "Continent": "Asia",
+   "Population2017": "126785797"
+ },
+ {
+   "CountryName": "Ethiopia",
+   "CountryCode": "ETH",
+   "Continent": "Africa",
+   "Population2017": "104957438"
+ },
+ {
+   "CountryName": "Philippines",
+   "CountryCode": "PHL",
+   "Continent": "Asia",
+   "Population2017": "104918090"
+ },
+ {
+   "CountryName": "Egypt, Arab Rep.",
+   "CountryCode": "EGY",
+   "Continent": "Africa",
+   "Population2017": "97553151"
+ },
+ {
+   "CountryName": "Vietnam",
+   "CountryCode": "VNM",
+   "Continent": "Asia",
+   "Population2017": "95540800"
+ },
+ {
+   "CountryName": "Germany",
+   "CountryCode": "DEU",
+   "Continent": "Europe",
+   "Population2017": "82695000"
+ },
+ {
+   "CountryName": "Congo, Dem. Rep.",
+   "CountryCode": "COD",
+   "Continent": "Africa",
+   "Population2017": "81339988"
+ },
+ {
+   "CountryName": "Iran, Islamic Rep.",
+   "CountryCode": "IRN",
+   "Continent": "Asia",
+   "Population2017": "81162788"
+ },
+ {
+   "CountryName": "Turkey",
+   "CountryCode": "TUR",
+   "Continent": "Asia",
+   "Population2017": "80745020"
+ },
+ {
+   "CountryName": "Thailand",
+   "CountryCode": "THA",
+   "Continent": "Asia",
+   "Population2017": "69037513"
+ },
+ {
+   "CountryName": "France",
+   "CountryCode": "FRA",
+   "Continent": "Europe",
+   "Population2017": "67118648"
+ },
+ {
+   "CountryName": "United Kingdom",
+   "CountryCode": "GBR",
+   "Continent": "Europe",
+   "Population2017": "66022273"
+ },
+ {
+   "CountryName": "Italy",
+   "CountryCode": "ITA",
+   "Continent": "Europe",
+   "Population2017": "60551416"
+ },
+ {
+   "CountryName": "Tanzania",
+   "CountryCode": "TZA",
+   "Continent": "Africa",
+   "Population2017": "57310019"
+ },
+ {
+   "CountryName": "South Africa",
+   "CountryCode": "ZAF",
+   "Continent": "Africa",
+   "Population2017": "56717156"
+ },
+ {
+   "CountryName": "Myanmar",
+   "CountryCode": "MMR",
+   "Continent": "Asia",
+   "Population2017": "53370609"
+ },
+ {
+   "CountryName": "Korea, Rep.",
+   "CountryCode": "KOR",
+   "Continent": "Asia",
+   "Population2017": "51466201"
+ },
+ {
+   "CountryName": "Kenya",
+   "CountryCode": "KEN",
+   "Continent": "Africa",
+   "Population2017": "49699862"
+ },
+ {
+   "CountryName": "Colombia",
+   "CountryCode": "COL",
+   "Continent": "South America",
+   "Population2017": "49065615"
+ },
+ {
+   "CountryName": "Spain",
+   "CountryCode": "ESP",
+   "Continent": "Europe",
+   "Population2017": "46572028"
+ },
+ {
+   "CountryName": "Ukraine",
+   "CountryCode": "UKR",
+   "Continent": "Europe",
+   "Population2017": "44831159"
+ },
+ {
+   "CountryName": "Argentina",
+   "CountryCode": "ARG",
+   "Continent": "South America",
+   "Population2017": "44271041"
+ },
+ {
+   "CountryName": "Uganda",
+   "CountryCode": "UGA",
+   "Continent": "Africa",
+   "Population2017": "42862958"
+ },
+ {
+   "CountryName": "Algeria",
+   "CountryCode": "DZA",
+   "Continent": "Africa",
+   "Population2017": "41318142"
+ },
+ {
+   "CountryName": "Sudan",
+   "CountryCode": "SDN",
+   "Continent": "Africa",
+   "Population2017": "40533330"
+ },
+ {
+   "CountryName": "Iraq",
+   "CountryCode": "IRQ",
+   "Continent": "Asia",
+   "Population2017": "38274618"
+ },
+ {
+   "CountryName": "Poland",
+   "CountryCode": "POL",
+   "Continent": "Europe",
+   "Population2017": "37975841"
+ },
+ {
+   "CountryName": "Canada",
+   "CountryCode": "CAN",
+   "Continent": "North America",
+   "Population2017": "36708083"
+ },
+ {
+   "CountryName": "Morocco",
+   "CountryCode": "MAR",
+   "Continent": "Africa",
+   "Population2017": "35739580"
+ },
+ {
+   "CountryName": "Afghanistan",
+   "CountryCode": "AFG",
+   "Continent": "Asia",
+   "Population2017": "35530081"
+ },
+ {
+   "CountryName": "Saudi Arabia",
+   "CountryCode": "SAU",
+   "Continent": "Asia",
+   "Population2017": "32938213"
+ },
+ {
+   "CountryName": "Uzbekistan",
+   "CountryCode": "UZB",
+   "Continent": "Asia",
+   "Population2017": "32387200"
+ },
+ {
+   "CountryName": "Peru",
+   "CountryCode": "PER",
+   "Continent": "South America",
+   "Population2017": "32165485"
+ },
+ {
+   "CountryName": "Venezuela, RB",
+   "CountryCode": "VEN",
+   "Continent": "South America",
+   "Population2017": "31977065"
+ },
+ {
+   "CountryName": "Malaysia",
+   "CountryCode": "MYS",
+   "Continent": "Asia",
+   "Population2017": "31624264"
+ },
+ {
+   "CountryName": "Angola",
+   "CountryCode": "AGO",
+   "Continent": "Africa",
+   "Population2017": "29784193"
+ },
+ {
+   "CountryName": "Mozambique",
+   "CountryCode": "MOZ",
+   "Continent": "Africa",
+   "Population2017": "29668834"
+ },
+ {
+   "CountryName": "Nepal",
+   "CountryCode": "NPL",
+   "Continent": "Asia",
+   "Population2017": "29304998"
+ },
+ {
+   "CountryName": "Ghana",
+   "CountryCode": "GHA",
+   "Continent": "Africa",
+   "Population2017": "28833629"
+ },
+ {
+   "CountryName": "Yemen, Rep.",
+   "CountryCode": "YEM",
+   "Continent": "Asia",
+   "Population2017": "28250420"
+ },
+ {
+   "CountryName": "Madagascar",
+   "CountryCode": "MDG",
+   "Continent": "Africa",
+   "Population2017": "25570895"
+ },
+ {
+   "CountryName": "Korea, Dem. People�s Rep.",
+   "CountryCode": "PRK",
+   "Continent": "Asia",
+   "Population2017": "25490965"
+ },
+ {
+   "CountryName": "Australia",
+   "CountryCode": "AUS",
+   "Continent": "Oceania",
+   "Population2017": "24598933"
+ },
+ {
+   "CountryName": "Cote d'Ivoire",
+   "CountryCode": "CIV",
+   "Continent": "Africa",
+   "Population2017": "24294750"
+ },
+ {
+   "CountryName": "Cameroon",
+   "CountryCode": "CMR",
+   "Continent": "Africa",
+   "Population2017": "24053727"
+ },
+ {
+   "CountryName": "Niger",
+   "CountryCode": "NER",
+   "Continent": "Africa",
+   "Population2017": "21477348"
+ },
+ {
+   "CountryName": "Sri Lanka",
+   "CountryCode": "LKA",
+   "Continent": "Asia",
+   "Population2017": "21444000"
+ },
+ {
+   "CountryName": "Romania",
+   "CountryCode": "ROU",
+   "Continent": "Europe",
+   "Population2017": "19586539"
+ },
+ {
+   "CountryName": "Burkina Faso",
+   "CountryCode": "BFA",
+   "Continent": "Africa",
+   "Population2017": "19193382"
+ },
+ {
+   "CountryName": "Malawi",
+   "CountryCode": "MWI",
+   "Continent": "Africa",
+   "Population2017": "18622104"
+ },
+ {
+   "CountryName": "Mali",
+   "CountryCode": "MLI",
+   "Continent": "Africa",
+   "Population2017": "18541980"
+ },
+ {
+   "CountryName": "Syrian Arab Republic",
+   "CountryCode": "SYR",
+   "Continent": "Asia",
+   "Population2017": "18269868"
+ },
+ {
+   "CountryName": "Chile",
+   "CountryCode": "CHL",
+   "Continent": "South America",
+   "Population2017": "18054726"
+ },
+ {
+   "CountryName": "Kazakhstan",
+   "CountryCode": "KAZ",
+   "Continent": "Asia",
+   "Population2017": "18037646"
+ },
+ {
+   "CountryName": "Netherlands",
+   "CountryCode": "NLD",
+   "Continent": "Europe",
+   "Population2017": "17132854"
+ },
+ {
+   "CountryName": "Zambia",
+   "CountryCode": "ZMB",
+   "Continent": "Africa",
+   "Population2017": "17094130"
+ },
+ {
+   "CountryName": "Guatemala",
+   "CountryCode": "GTM",
+   "Continent": "North America",
+   "Population2017": "16913503"
+ },
+ {
+   "CountryName": "Ecuador",
+   "CountryCode": "ECU",
+   "Continent": "South America",
+   "Population2017": "16624858"
+ },
+ {
+   "CountryName": "Zimbabwe",
+   "CountryCode": "ZWE",
+   "Continent": "Africa",
+   "Population2017": "16529904"
+ },
+ {
+   "CountryName": "Cambodia",
+   "CountryCode": "KHM",
+   "Continent": "Asia",
+   "Population2017": "16005373"
+ },
+ {
+   "CountryName": "Senegal",
+   "CountryCode": "SEN",
+   "Continent": "Africa",
+   "Population2017": "15850567"
+ },
+ {
+   "CountryName": "Chad",
+   "CountryCode": "TCD",
+   "Continent": "Africa",
+   "Population2017": "14899994"
+ },
+ {
+   "CountryName": "Somalia",
+   "CountryCode": "SOM",
+   "Continent": "Africa",
+   "Population2017": "14742523"
+ },
+ {
+   "CountryName": "Guinea",
+   "CountryCode": "GIN",
+   "Continent": "Africa",
+   "Population2017": "12717176"
+ },
+ {
+   "CountryName": "South Sudan",
+   "CountryCode": "SSD",
+   "Continent": "Africa",
+   "Population2017": "12575714"
+ },
+ {
+   "CountryName": "Rwanda",
+   "CountryCode": "RWA",
+   "Continent": "Africa",
+   "Population2017": "12208407"
+ },
+ {
+   "CountryName": "Tunisia",
+   "CountryCode": "TUN",
+   "Continent": "Africa",
+   "Population2017": "11532127"
+ },
+ {
+   "CountryName": "Cuba",
+   "CountryCode": "CUB",
+   "Continent": "North America",
+   "Population2017": "11484636"
+ },
+ {
+   "CountryName": "Belgium",
+   "CountryCode": "BEL",
+   "Continent": "Europe",
+   "Population2017": "11372068"
+ },
+ {
+   "CountryName": "Benin",
+   "CountryCode": "BEN",
+   "Continent": "Africa",
+   "Population2017": "11175692"
+ },
+ {
+   "CountryName": "Bolivia",
+   "CountryCode": "BOL",
+   "Continent": "South America",
+   "Population2017": "11051600"
+ },
+ {
+   "CountryName": "Haiti",
+   "CountryCode": "HTI",
+   "Continent": "North America",
+   "Population2017": "10981229"
+ },
+ {
+   "CountryName": "Burundi",
+   "CountryCode": "BDI",
+   "Continent": "Africa",
+   "Population2017": "10864245"
+ },
+ {
+   "CountryName": "Dominican Republic",
+   "CountryCode": "DOM",
+   "Continent": "North America",
+   "Population2017": "10766998"
+ },
+ {
+   "CountryName": "Greece",
+   "CountryCode": "GRC",
+   "Continent": "Europe",
+   "Population2017": "10760421"
+ },
+ {
+   "CountryName": "Czech Republic",
+   "CountryCode": "CZE",
+   "Continent": "Europe",
+   "Population2017": "10591323"
+ },
+ {
+   "CountryName": "Portugal",
+   "CountryCode": "PRT",
+   "Continent": "Europe",
+   "Population2017": "10293718"
+ },
+ {
+   "CountryName": "Sweden",
+   "CountryCode": "SWE",
+   "Continent": "Europe",
+   "Population2017": "10067744"
+ },
+ {
+   "CountryName": "Azerbaijan",
+   "CountryCode": "AZE",
+   "Continent": "Asia",
+   "Population2017": "9862429"
+ },
+ {
+   "CountryName": "Hungary",
+   "CountryCode": "HUN",
+   "Continent": "Europe",
+   "Population2017": "9781127"
+ },
+ {
+   "CountryName": "Jordan",
+   "CountryCode": "JOR",
+   "Continent": "Asia",
+   "Population2017": "9702353"
+ },
+ {
+   "CountryName": "Belarus",
+   "CountryCode": "BLR",
+   "Continent": "Europe",
+   "Population2017": "9507875"
+ },
+ {
+   "CountryName": "United Arab Emirates",
+   "CountryCode": "ARE",
+   "Continent": "Asia",
+   "Population2017": "9400145"
+ },
+ {
+   "CountryName": "Honduras",
+   "CountryCode": "HND",
+   "Continent": "North America",
+   "Population2017": "9265067"
+ },
+ {
+   "CountryName": "Tajikistan",
+   "CountryCode": "TJK",
+   "Continent": "Asia",
+   "Population2017": "8921343"
+ },
+ {
+   "CountryName": "Austria",
+   "CountryCode": "AUT",
+   "Continent": "Europe",
+   "Population2017": "8809212"
+ },
+ {
+   "CountryName": "Israel",
+   "CountryCode": "ISR",
+   "Continent": "Asia",
+   "Population2017": "8712400"
+ },
+ {
+   "CountryName": "Switzerland",
+   "CountryCode": "CHE",
+   "Continent": "Europe",
+   "Population2017": "8466017"
+ },
+ {
+   "CountryName": "Papua New Guinea",
+   "CountryCode": "PNG",
+   "Continent": "Oceania",
+   "Population2017": "8251162"
+ },
+ {
+   "CountryName": "Togo",
+   "CountryCode": "TGO",
+   "Continent": "Africa",
+   "Population2017": "7797694"
+ },
+ {
+   "CountryName": "Sierra Leone",
+   "CountryCode": "SLE",
+   "Continent": "Africa",
+   "Population2017": "7557212"
+ },
+ {
+   "CountryName": "Hong Kong SAR, China",
+   "CountryCode": "HKG",
+   "Continent": "Asia",
+   "Population2017": "7391700"
+ },
+ {
+   "CountryName": "Bulgaria",
+   "CountryCode": "BGR",
+   "Continent": "Europe",
+   "Population2017": "7075991"
+ },
+ {
+   "CountryName": "Serbia",
+   "CountryCode": "SRB",
+   "Continent": "Europe",
+   "Population2017": "7022268"
+ },
+ {
+   "CountryName": "Lao PDR",
+   "CountryCode": "LAO",
+   "Continent": "Asia",
+   "Population2017": "6858160"
+ },
+ {
+   "CountryName": "Paraguay",
+   "CountryCode": "PRY",
+   "Continent": "South America",
+   "Population2017": "6811297"
+ },
+ {
+   "CountryName": "El Salvador",
+   "CountryCode": "SLV",
+   "Continent": "North America",
+   "Population2017": "6377853"
+ },
+ {
+   "CountryName": "Libya",
+   "CountryCode": "LBY",
+   "Continent": "Africa",
+   "Population2017": "6374616"
+ },
+ {
+   "CountryName": "Nicaragua",
+   "CountryCode": "NIC",
+   "Continent": "North America",
+   "Population2017": "6217581"
+ },
+ {
+   "CountryName": "Kyrgyz Republic",
+   "CountryCode": "KGZ",
+   "Continent": "Asia",
+   "Population2017": "6201500"
+ },
+ {
+   "CountryName": "Lebanon",
+   "CountryCode": "LBN",
+   "Continent": "Asia",
+   "Population2017": "6082357"
+ },
+ {
+   "CountryName": "Denmark",
+   "CountryCode": "DNK",
+   "Continent": "Europe",
+   "Population2017": "5769603"
+ },
+ {
+   "CountryName": "Turkmenistan",
+   "CountryCode": "TKM",
+   "Continent": "Asia",
+   "Population2017": "5758075"
+ },
+ {
+   "CountryName": "Singapore",
+   "CountryCode": "SGP",
+   "Continent": "Asia",
+   "Population2017": "5612253"
+ },
+ {
+   "CountryName": "Finland",
+   "CountryCode": "FIN",
+   "Continent": "Europe",
+   "Population2017": "5511303"
+ },
+ {
+   "CountryName": "Slovak Republic",
+   "CountryCode": "SVK",
+   "Continent": "Europe",
+   "Population2017": "5439892"
+ },
+ {
+   "CountryName": "Norway",
+   "CountryCode": "NOR",
+   "Continent": "Europe",
+   "Population2017": "5282223"
+ },
+ {
+   "CountryName": "Congo, Rep.",
+   "CountryCode": "COG",
+   "Continent": "Africa",
+   "Population2017": "5260750"
+ },
+ {
+   "CountryName": "Costa Rica",
+   "CountryCode": "CRI",
+   "Continent": "North America",
+   "Population2017": "4905769"
+ },
+ {
+   "CountryName": "Ireland",
+   "CountryCode": "IRL",
+   "Continent": "Europe",
+   "Population2017": "4813608"
+ },
+ {
+   "CountryName": "New Zealand",
+   "CountryCode": "NZL",
+   "Continent": "Oceania",
+   "Population2017": "4793900"
+ },
+ {
+   "CountryName": "Liberia",
+   "CountryCode": "LBR",
+   "Continent": "Africa",
+   "Population2017": "4731906"
+ },
+ {
+   "CountryName": "West Bank and Gaza",
+   "CountryCode": "PSE",
+   "Continent": "Asia",
+   "Population2017": "4684777"
+ },
+ {
+   "CountryName": "Central African Republic",
+   "CountryCode": "CAF",
+   "Continent": "Africa",
+   "Population2017": "4659080"
+ },
+ {
+   "CountryName": "Oman",
+   "CountryCode": "OMN",
+   "Continent": "Asia",
+   "Population2017": "4636262"
+ },
+ {
+   "CountryName": "Mauritania",
+   "CountryCode": "MRT",
+   "Continent": "Africa",
+   "Population2017": "4420184"
+ },
+ {
+   "CountryName": "Kuwait",
+   "CountryCode": "KWT",
+   "Continent": "Asia",
+   "Population2017": "4136528"
+ },
+ {
+   "CountryName": "Croatia",
+   "CountryCode": "HRV",
+   "Continent": "Europe",
+   "Population2017": "4125700"
+ },
+ {
+   "CountryName": "Panama",
+   "CountryCode": "PAN",
+   "Continent": "North America",
+   "Population2017": "4098587"
+ },
+ {
+   "CountryName": "Georgia",
+   "CountryCode": "GEO",
+   "Continent": "Asia",
+   "Population2017": "3717100"
+ },
+ {
+   "CountryName": "Moldova",
+   "CountryCode": "MDA",
+   "Continent": "Europe",
+   "Population2017": "3549750"
+ },
+ {
+   "CountryName": "Bosnia and Herzegovina",
+   "CountryCode": "BIH",
+   "Continent": "Europe",
+   "Population2017": "3507017"
+ },
+ {
+   "CountryName": "Uruguay",
+   "CountryCode": "URY",
+   "Continent": "South America",
+   "Population2017": "3456750"
+ },
+ {
+   "CountryName": "Puerto Rico",
+   "CountryCode": "PRI",
+   "Continent": "North America",
+   "Population2017": "3337177"
+ },
+ {
+   "CountryName": "Mongolia",
+   "CountryCode": "MNG",
+   "Continent": "Asia",
+   "Population2017": "3075647"
+ },
+ {
+   "CountryName": "Armenia",
+   "CountryCode": "ARM",
+   "Continent": "Asia",
+   "Population2017": "2930450"
+ },
+ {
+   "CountryName": "Jamaica",
+   "CountryCode": "JAM",
+   "Continent": "North America",
+   "Population2017": "2890299"
+ },
+ {
+   "CountryName": "Albania",
+   "CountryCode": "ALB",
+   "Continent": "Europe",
+   "Population2017": "2873457"
+ },
+ {
+   "CountryName": "Lithuania",
+   "CountryCode": "LTU",
+   "Continent": "Europe",
+   "Population2017": "2827721"
+ },
+ {
+   "CountryName": "Qatar",
+   "CountryCode": "QAT",
+   "Continent": "Asia",
+   "Population2017": "2639211"
+ },
+ {
+   "CountryName": "Namibia",
+   "CountryCode": "NAM",
+   "Continent": "Africa",
+   "Population2017": "2533794"
+ },
+ {
+   "CountryName": "Botswana",
+   "CountryCode": "BWA",
+   "Continent": "Africa",
+   "Population2017": "2291661"
+ },
+ {
+   "CountryName": "Lesotho",
+   "CountryCode": "LSO",
+   "Continent": "Africa",
+   "Population2017": "2233339"
+ },
+ {
+   "CountryName": "Gambia, The",
+   "CountryCode": "GMB",
+   "Continent": "Africa",
+   "Population2017": "2100568"
+ },
+ {
+   "CountryName": "Macedonia, FYR",
+   "CountryCode": "MKD",
+   "Continent": "Europe",
+   "Population2017": "2083160"
+ },
+ {
+   "CountryName": "Slovenia",
+   "CountryCode": "SVN",
+   "Continent": "Europe",
+   "Population2017": "2066748"
+ },
+ {
+   "CountryName": "Gabon",
+   "CountryCode": "GAB",
+   "Continent": "Africa",
+   "Population2017": "2025137"
+ },
+ {
+   "CountryName": "Latvia",
+   "CountryCode": "LVA",
+   "Continent": "Europe",
+   "Population2017": "1940740"
+ },
+ {
+   "CountryName": "Guinea-Bissau",
+   "CountryCode": "GNB",
+   "Continent": "Africa",
+   "Population2017": "1861283"
+ },
+ {
+   "CountryName": "Kosovo",
+   "CountryCode": "XKX",
+   "Continent": "Europe",
+   "Population2017": "1830700"
+ },
+ {
+   "CountryName": "Bahrain",
+   "CountryCode": "BHR",
+   "Continent": "Asia",
+   "Population2017": "1492584"
+ },
+ {
+   "CountryName": "Trinidad and Tobago",
+   "CountryCode": "TTO",
+   "Continent": "North America",
+   "Population2017": "1369125"
+ },
+ {
+   "CountryName": "Eswatini",
+   "CountryCode": "SWZ",
+   "Continent": "Africa",
+   "Population2017": "1367254"
+ },
+ {
+   "CountryName": "Estonia",
+   "CountryCode": "EST",
+   "Continent": "Europe",
+   "Population2017": "1315480"
+ },
+ {
+   "CountryName": "Timor-Leste",
+   "CountryCode": "TLS",
+   "Continent": "Asia",
+   "Population2017": "1296311"
+ },
+ {
+   "CountryName": "Equatorial Guinea",
+   "CountryCode": "GNQ",
+   "Continent": "Africa",
+   "Population2017": "1267689"
+ },
+ {
+   "CountryName": "Mauritius",
+   "CountryCode": "MUS",
+   "Continent": "Africa",
+   "Population2017": "1264613"
+ },
+ {
+   "CountryName": "Cyprus",
+   "CountryCode": "CYP",
+   "Continent": "Asia",
+   "Population2017": "1179551"
+ },
+ {
+   "CountryName": "Djibouti",
+   "CountryCode": "DJI",
+   "Continent": "Africa",
+   "Population2017": "956985"
+ },
+ {
+   "CountryName": "Fiji",
+   "CountryCode": "FJI",
+   "Continent": "Oceania",
+   "Population2017": "905502"
+ },
+ {
+   "CountryName": "Comoros",
+   "CountryCode": "COM",
+   "Continent": "Africa",
+   "Population2017": "813912"
+ },
+ {
+   "CountryName": "Bhutan",
+   "CountryCode": "BTN",
+   "Continent": "Asia",
+   "Population2017": "807610"
+ },
+ {
+   "CountryName": "Guyana",
+   "CountryCode": "GUY",
+   "Continent": "South America",
+   "Population2017": "777859"
+ },
+ {
+   "CountryName": "Macao SAR, China",
+   "CountryCode": "MAC",
+   "Continent": "Asia",
+   "Population2017": "622567"
+ },
+ {
+   "CountryName": "Montenegro",
+   "CountryCode": "MNE",
+   "Continent": "Europe",
+   "Population2017": "622471"
+ },
+ {
+   "CountryName": "Solomon Islands",
+   "CountryCode": "SLB",
+   "Continent": "Oceania",
+   "Population2017": "611343"
+ },
+ {
+   "CountryName": "Luxembourg",
+   "CountryCode": "LUX",
+   "Continent": "Europe",
+   "Population2017": "599449"
+ },
+ {
+   "CountryName": "Suriname",
+   "CountryCode": "SUR",
+   "Continent": "South America",
+   "Population2017": "563402"
+ },
+ {
+   "CountryName": "Cabo Verde",
+   "CountryCode": "CPV",
+   "Continent": "Africa",
+   "Population2017": "546388"
+ },
+ {
+   "CountryName": "Malta",
+   "CountryCode": "MLT",
+   "Continent": "Europe",
+   "Population2017": "465292"
+ },
+ {
+   "CountryName": "Maldives",
+   "CountryCode": "MDV",
+   "Continent": "Asia",
+   "Population2017": "436330"
+ },
+ {
+   "CountryName": "Brunei Darussalam",
+   "CountryCode": "BRN",
+   "Continent": "Asia",
+   "Population2017": "428697"
+ },
+ {
+   "CountryName": "Bahamas, The",
+   "CountryCode": "BHS",
+   "Continent": "North America",
+   "Population2017": "395361"
+ },
+ {
+   "CountryName": "Belize",
+   "CountryCode": "BLZ",
+   "Continent": "North America",
+   "Population2017": "374681"
+ },
+ {
+   "CountryName": "Iceland",
+   "CountryCode": "ISL",
+   "Continent": "Europe",
+   "Population2017": "341284"
+ },
+ {
+   "CountryName": "Barbados",
+   "CountryCode": "BRB",
+   "Continent": "North America",
+   "Population2017": "285719"
+ },
+ {
+   "CountryName": "French Polynesia",
+   "CountryCode": "PYF",
+   "Continent": "Oceania",
+   "Population2017": "283007"
+ },
+ {
+   "CountryName": "New Caledonia",
+   "CountryCode": "NCL",
+   "Continent": "Oceania",
+   "Population2017": "280460"
+ },
+ {
+   "CountryName": "Vanuatu",
+   "CountryCode": "VUT",
+   "Continent": "Oceania",
+   "Population2017": "276244"
+ },
+ {
+   "CountryName": "Sao Tome and Principe",
+   "CountryCode": "STP",
+   "Continent": "Africa",
+   "Population2017": "204327"
+ },
+ {
+   "CountryName": "Samoa",
+   "CountryCode": "WSM",
+   "Continent": "Oceania",
+   "Population2017": "196440"
+ },
+ {
+   "CountryName": "St. Lucia",
+   "CountryCode": "LCA",
+   "Continent": "North America",
+   "Population2017": "178844"
+ },
+ {
+   "CountryName": "Channel Islands",
+   "CountryCode": "CHI",
+   "Continent": "Europe",
+   "Population2017": "165314"
+ },
+ {
+   "CountryName": "Guam",
+   "CountryCode": "GUM",
+   "Continent": "Oceania",
+   "Population2017": "164229"
+ },
+ {
+   "CountryName": "Curacao",
+   "CountryCode": "CUW",
+   "Continent": "North America",
+   "Population2017": "161014"
+ },
+ {
+   "CountryName": "Kiribati",
+   "CountryCode": "KIR",
+   "Continent": "Oceania",
+   "Population2017": "116398"
+ },
+ {
+   "CountryName": "St. Vincent and the Grenadines",
+   "CountryCode": "VCT",
+   "Continent": "North America",
+   "Population2017": "109897"
+ },
+ {
+   "CountryName": "Tonga",
+   "CountryCode": "TON",
+   "Continent": "Oceania",
+   "Population2017": "108020"
+ },
+ {
+   "CountryName": "Grenada",
+   "CountryCode": "GRD",
+   "Continent": "North America",
+   "Population2017": "107825"
+ },
+ {
+   "CountryName": "Virgin Islands (U.S.)",
+   "CountryCode": "VIR",
+   "Continent": "North America",
+   "Population2017": "107268"
+ },
+ {
+   "CountryName": "Micronesia, Fed. Sts.",
+   "CountryCode": "FSM",
+   "Continent": "Oceania",
+   "Population2017": "105544"
+ },
+ {
+   "CountryName": "Aruba",
+   "CountryCode": "ABW",
+   "Continent": "North America",
+   "Population2017": "105264"
+ },
+ {
+   "CountryName": "Antigua and Barbuda",
+   "CountryCode": "ATG",
+   "Continent": "North America",
+   "Population2017": "102012"
+ },
+ {
+   "CountryName": "Seychelles",
+   "CountryCode": "SYC",
+   "Continent": "Africa",
+   "Population2017": "95843"
+ },
+ {
+   "CountryName": "Isle of Man",
+   "CountryCode": "IMN",
+   "Continent": "Europe",
+   "Population2017": "84287"
+ },
+ {
+   "CountryName": "Andorra",
+   "CountryCode": "AND",
+   "Continent": "Europe",
+   "Population2017": "76965"
+ },
+ {
+   "CountryName": "Dominica",
+   "CountryCode": "DMA",
+   "Continent": "North America",
+   "Population2017": "73925"
+ },
+ {
+   "CountryName": "Bermuda",
+   "CountryCode": "BMU",
+   "Continent": "North America",
+   "Population2017": "65441"
+ },
+ {
+   "CountryName": "Cayman Islands",
+   "CountryCode": "CYM",
+   "Continent": "North America",
+   "Population2017": "61559"
+ },
+ {
+   "CountryName": "Greenland",
+   "CountryCode": "GRL",
+   "Continent": "North America",
+   "Population2017": "56171"
+ },
+ {
+   "CountryName": "American Samoa",
+   "CountryCode": "ASM",
+   "Continent": "Oceania",
+   "Population2017": "55641"
+ },
+ {
+   "CountryName": "St. Kitts and Nevis",
+   "CountryCode": "KNA",
+   "Continent": "North America",
+   "Population2017": "55345"
+ },
+ {
+   "CountryName": "Northern Mariana Islands",
+   "CountryCode": "MNP",
+   "Continent": "Oceania",
+   "Population2017": "55144"
+ },
+ {
+   "CountryName": "Marshall Islands",
+   "CountryCode": "MHL",
+   "Continent": "Oceania",
+   "Population2017": "53127"
+ },
+ {
+   "CountryName": "Faroe Islands",
+   "CountryCode": "FRO",
+   "Continent": "Europe",
+   "Population2017": "49290"
+ },
+ {
+   "CountryName": "Sint Maarten (Dutch part)",
+   "CountryCode": "SXM",
+   "Continent": "North America",
+   "Population2017": "41109"
+ },
+ {
+   "CountryName": "Monaco",
+   "CountryCode": "MCO",
+   "Continent": "Europe",
+   "Population2017": "38695"
+ },
+ {
+   "CountryName": "Liechtenstein",
+   "CountryCode": "LIE",
+   "Continent": "Europe",
+   "Population2017": "37922"
+ },
+ {
+   "CountryName": "Turks and Caicos Islands",
+   "CountryCode": "TCA",
+   "Continent": "North America",
+   "Population2017": "35446"
+ },
+ {
+   "CountryName": "Gibraltar",
+   "CountryCode": "GIB",
+   "Continent": "Europe",
+   "Population2017": "34571"
+ },
+ {
+   "CountryName": "San Marino",
+   "CountryCode": "SMR",
+   "Continent": "Europe",
+   "Population2017": "33400"
+ },
+ {
+   "CountryName": "St. Martin (French part)",
+   "CountryCode": "MAF",
+   "Continent": "North America",
+   "Population2017": "32125"
+ },
+ {
+   "CountryName": "British Virgin Islands",
+   "CountryCode": "VGB",
+   "Continent": "North America",
+   "Population2017": "31196"
+ },
+ {
+   "CountryName": "Palau",
+   "CountryCode": "PLW",
+   "Continent": "Oceania",
+   "Population2017": "21729"
+ },
+ {
+   "CountryName": "Nauru",
+   "CountryCode": "NRU",
+   "Continent": "Oceania",
+   "Population2017": "13649"
+ },
+ {
+   "CountryName": "Tuvalu",
+   "CountryCode": "TUV",
+   "Continent": "Oceania",
+   "Population2017": "11192"
+ },
+ {
+   "CountryName": "Eritrea",
+   "CountryCode": "ERI",
+   "Continent": "Africa",
+   "Population2017": "0"
+ }
+]
